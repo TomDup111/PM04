@@ -19,6 +19,6 @@ This program is a C# WinForms application that calculates contractor salaries. I
 - Dependents limited to 10.  
 - Clear error messages guide the user.
 ## Files  
-- `PayrollCalculator.cs` → Payroll formulas.  
-- `Form1.cs` → User interface and buttons.  
-- `PayrollTests.cs` → Unit tests.
+- `PayrollCalculator.cs` Payroll formulas.  
+- `Form1.cs` User interface and buttons.  
+- `PayrollTests.cs` Unit tests.
